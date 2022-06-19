@@ -58,7 +58,7 @@
 
 <div align=center>
   
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=61dafb&layout=compact&bg_color=20232a&text_color=ffffff&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanghani127&title_color=61dafb&layout=compact&bg_color=20232a&text_color=ffffff&hide_border=true)
   
 </div>
 
