@@ -19,6 +19,10 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/usman-ghani-raja-429b8b121"><img alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+ 
+ <a href="https://www.xing.com/profile/Usman_Ghani39/cv">
+<img alt="Gmail" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFR4eBsFR-GvQ/company-logo_200_200/0/1632145251349?e=1666828800&v=beta&t=UVuJo9mjhvA8TphJSCbQuLcM9V8mZkzQmoy29NlI3BU" /></a>
+ 
 <a href="mailto:rajausman127official@gmail.com">
 <img alt="Gmail" width="26px" src="https://img.icons8.com/color/344/gmail-new.png" /></a>
 </div>
